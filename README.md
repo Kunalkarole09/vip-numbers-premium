@@ -1,4 +1,4 @@
-# VIP Numbers Club
+﻿# VIP Numbers Club
 
 Premium frontend redesign for VIP Numbers Club, an India-focused marketplace for VIP, fancy, numerology, and memorable mobile numbers.
 
